@@ -24,7 +24,7 @@ Todos los recursos solicitados para el examen —incluyendo documentación, diag
 
 Documento Técnico Completo
 
-El documento formal con la propuesta, arquitectura, análisis de costos, diseño de API y demás detalles técnicos se encuentra aquí:https://drive.google.com/file/d/1Jer4YqkATfTGd0P5ElQzIHXtRYCYsAyV/view?usp=sharing
+El documento formal con la propuesta, arquitectura, análisis de costos, diseño de API y demás detalles técnicos se encuentra aquí:(https://drive.google.com/file/d/1Jer4YqkATfTGd0P5ElQzIHXtRYCYsAyV/view?usp=sharing)
 
 Stack Tecnólogico
 
@@ -36,3 +36,6 @@ Stack Tecnólogico
 | Base de Datos  | Firestore (NoSQL) | Ideal para lecturas y escrituras constantes en tiempo real.  |
 
 3.Link de Video Pitch y Presentación:
+https://drive.google.com/file/d/15MRtGGaxwQvNvhZWSX9-IjIAnDaMJq-j/view?usp=sharing
+https://drive.google.com/file/d/1_jTnFs_szkzzbZZuKDXDGVme_5rHA86Y/view?usp=sharing
+
